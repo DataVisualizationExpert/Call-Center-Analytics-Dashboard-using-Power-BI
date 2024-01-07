@@ -17,7 +17,7 @@ Image of your Call Center Trends Dashboard
 
 ## **Technology Stack:**
 1. Power BI Desktop
-2. 2. Excel
+2. Excel
 
 ## **Target Audience:**
 🔶 Call centre managers and supervisors
