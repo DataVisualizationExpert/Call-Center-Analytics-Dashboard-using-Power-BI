@@ -1,7 +1,7 @@
 # **Call Center Analytics in Power BI**
 ## **Boost agent performance and improve customer satisfaction with interactive dashboards.**
 
-This repository showcases my portfolio project, built using Power BI Desktop and Excel during my internship at PwC. It leverages call center data to provide data-driven insights into agent performance, call trends, and customer experience.
+This repository showcases my portfolio project, built using Power BI Desktop and Excel. It leverages call center data to provide data-driven insights into agent performance, call trends, and customer experience.
 
 ## **Key Features:**
 ✅ Agent Performance: Track individual and team performance metrics like average call handling time, call resolution rate, and customer satisfaction ratings.
