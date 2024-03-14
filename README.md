@@ -1,7 +1,7 @@
-# **Call Center Analytics in Power BI**
+# **Call Center Analytics Dashboad using Power BI**
 ## **Boost agent performance and improve customer satisfaction with interactive dashboards.**
 
-This repository showcases my portfolio project, built using Power BI Desktop and Excel. It leverages call center data to provide data-driven insights into agent performance, call trends, and customer experience.
+This repository showcases project, built using Power BI Desktop and Excel. It leverages call center data to provide data-driven insights into agent performance, call trends, and customer experience.
 
 ## **Key Features:**
 ✅ Agent Performance: Track individual and team performance metrics like average call handling time, call resolution rate, and customer satisfaction ratings.
@@ -31,9 +31,3 @@ Image of your Call Center Trends Dashboard
 2. Open the Call Center Analytics.pbix file in Power BI Desktop.
 3. Connect to your data source, Call-Center-Dataset.xlsx.
 4. Explore the dashboards and reports.
-
-## **Future Work:**
-Integrate with additional data sources such as CRM systems.
-Develop machine learning models to predict call volume and customer churn.
-Implement real-time data refreshes for up-to-date insights.
-I'd like to encourage you to explore this project and see how Power BI can be used to transform your call center data into actionable insights.
